@@ -6,7 +6,9 @@ import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
 
 import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
 
+@SpringBootTest
 class SBO_MEN_U10_formatoPrecioEnvio {
 
 	@Test
